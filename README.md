@@ -1,7 +1,7 @@
 #### Hi 👋, I'm Johsua Carter
 ##### **Senior Video Game Developer | Unity, Unreal Engine**
 
-[![](https://visitcount.itsvg.in/api?id=johsuacarter&icon=0&color=5)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johsuacarter&label=Profile%20views&color=0e75b6&style=flat" alt="johsuacarter" /> </p>
 - 🔭 I’m currently working on **Senior Video Game Developer | Unity, Unreal Engine**
 
 ### 💻 Tech Stack:
